@@ -5,11 +5,13 @@ rtl8821 linux kernel driver for AC1200 (801.11ac)
 Wireless Dual-Band USB Adapter
 
 ------------------------------
+```
 I have EDIMAX EW-7811UAc and I need to run hostpad on Debian Jessie.
 I found this driver but do not go.
 Free for All
-
+```
 -----------------------------
+```
 v4.3.14_13455.20150212_BTCOEX20150128-51
 Realtek release:
 1. This driver can support 8811AU and 8821AU
@@ -20,3 +22,4 @@ Realtek release:
 6. Support Linux kernel 3.16.0
 7. Fix some 802.11 logo issue
 8. Fix WPS issue
+```
