@@ -18,5 +18,5 @@ Realtek release:
 4. Support efuse and mac address can read from file
 5. Support Sniffer feature
 6. Support Linux kernel 3.16.0
-7. Fix some 802.11 logo issue.
+7. Fix some 802.11 logo issue
 8. Fix WPS issue
