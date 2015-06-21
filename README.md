@@ -7,7 +7,7 @@ Wireless Dual-Band USB Adapter
 ------------------------------
 ```
 I have EDIMAX EW-7811UAc and I need to run hostpad on Debian Jessie.
-I found this driver but do not go.
+Work as AP on Gentoo with hostapd from Realtek.
 Free for All
 ```
 -----------------------------
